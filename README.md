@@ -1,5 +1,5 @@
 # Smooth-Scroll-with-CSS
-Give a smooth scroll effect to web page
+Smooth scroll effect to web page without javascript
 
 ##### First of all, I have created a basic structure with HTML. And I have added three different kinds of sections. Also, navigation is fixed to page top. Then the user can click navigation buttons to navigate separate sections with smooth scrolling.
 
