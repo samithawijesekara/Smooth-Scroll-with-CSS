@@ -1,0 +1,49 @@
+h4 {
+    color: aliceblue;
+    position: absolute;
+    margin-left: 10%;
+	margin-top: 40px;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.buttons{
+	position: fixed;
+	margin-top: 40px;
+	margin-left: 50%;
+}
+
+a{
+	font-size: 25px;
+	font-family: sans-serif;
+	color: white;
+	padding-right: 70px;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+.a {
+    background-color: rgb(187, 85, 54);
+    height: 100vh;
+}
+
+.b {
+    background-color: rgb(50, 124, 185);
+    height: 100vh;
+}
+
+.c {
+    background-color: rgb(113, 163, 56);
+    height: 100vh;
+}
+
+
+/*Smooth Scroll Style*/
+
+html {
+    scroll-behavior: smooth;
+}
