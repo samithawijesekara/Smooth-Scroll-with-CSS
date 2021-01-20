@@ -1,6 +1,8 @@
 # Smooth-Scroll-with-CSS
 Smooth scroll effect to web page without javascript
 
+💻😍 Online Demo : https://smooth-scroll-with-css.netlify.app/
+
 ##### First of all, I have created a basic structure with HTML. And I have added three different kinds of sections. Also, navigation is fixed to page top. Then the user can click navigation buttons to navigate separate sections with smooth scrolling.
 
 <img src="img/screenshot_a.JPG" width="500" height="300">
